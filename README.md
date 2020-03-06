@@ -1,0 +1,2 @@
+# Model-Deloyment_AWS
+ Preface : This is intended to help all the aspirants out there. It is a step by step guide for creating a machine learning model right from scratch and then deploying it to AWS Cloud. This book uses a dataset from Kaggle to predict the chances of the admission of a student into foreign universities based on different evaluation criteria.  This book tries to explain the concepts simply, extensively, and thoroughly to approach the problem from scratch and then its deployment to a cloud environment.  Happy Learning! 
